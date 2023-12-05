@@ -21,9 +21,9 @@ A powerful Discord Nitro Generator by nxeeee.
 
 ## Usage
 
-1. **Download the Repository.**: 
+1. **Download the Repository.**
 
-2. **Extract the .zip file.**:
+2. **Extract the .zip file.**
 
 3. **Run run.bat and generate!**
 
