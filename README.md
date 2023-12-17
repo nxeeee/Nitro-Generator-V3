@@ -33,7 +33,9 @@ Contributions are welcome! Here's how you can contribute:
 
 1. **Star** the repository!
 2. Bugs and suggestions in the [issues section](https://github.com/nxeeee/Nitro-Generator-V3/issues), submit your error and any helpful information.
-3. **Donate**! My BTC wallet: `bc1q5zghjs7gg5ep5p8uj2yhmctsjx4vwg6vq5qxqy`
+3. **Donate**!
+> My BTC wallet: `bc1q5zghjs7gg5ep5p8uj2yhmctsjx4vwg6vq5qxqy`
+> My XMR wallet: `48uzvZ9gZhWS1VzGCzy231GVL7r8HUwNgYdsSAC3D4vMaCPmmQvM3Pd3jKcXF6yb4W1sXfL44BKyNHwcmBCPvMnoEYQKjiA`
 
 ## License
 
