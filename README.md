@@ -3,6 +3,7 @@
 [![GitHub license](https://img.shields.io/badge/license-GPL%20v3-blue.svg)](https://raw.githubusercontent.com/nxeeee/Nitro-Generator-V3/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/nxeeee/Nitro-Generator-V3.svg)](https://github.com/nxeeee/Nitro-Generator-V3/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/nxeeee/Nitro-Generator-V3.svg)](https://github.com/nxeeee/Nitro-Generator-V3/issues)
+<img src="https://img.shields.io/github/issues-closed/Blank-c/Blank-Grabber">
 
 A powerful Discord Nitro Generator by nxeeee.
 
